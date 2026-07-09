@@ -153,13 +153,17 @@ JWT_SECRET=YOUR_SECRET_KEY
 
 ## 🏠 Login Page
 
-> Add Screenshot Here
+<p align="center">
+<img src="./screenshots/login.png" width="900"/>
+</p>
 
 ---
 
 ## 📝 Signup Page
 
-> Add Screenshot Here
+<p align="center">
+<img src="./screenshots/signup.png" width="900"/>
+</p>
 
 ---
 
