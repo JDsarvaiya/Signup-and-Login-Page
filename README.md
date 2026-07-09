@@ -154,7 +154,7 @@ JWT_SECRET=YOUR_SECRET_KEY
 ## 🏠 Login Page
 
 <p align="center">
-<img src="./screenshots/login.png" width="900"/>
+<img src="D:\react-node\react-node-combine\screenshots\Login.png" width="900"/>
 </p>
 
 ---
@@ -162,7 +162,7 @@ JWT_SECRET=YOUR_SECRET_KEY
 ## 📝 Signup Page
 
 <p align="center">
-<img src="./screenshots/signup.png" width="900"/>
+<img src="D:\react-node\react-node-combine\screenshots\signup.png" width="900"/>
 </p>
 
 ---
