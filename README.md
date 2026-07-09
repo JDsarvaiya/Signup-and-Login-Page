@@ -33,7 +33,7 @@ The application allows users to securely register, log in, and access protected 
 
 ✅ Protected Routes
 
-✅ Password Encryption
+✅ Password bcrypt
 
 ✅ MongoDB Database
 
