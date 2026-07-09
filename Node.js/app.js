@@ -6,7 +6,7 @@ var logger = require('morgan');
 const mongoose = require('mongoose');
 const cors = require('cors');
 
-mongoose.connect('mongodb+srv://jdsarvaiya000:000@cluster0.mo8qulm.mongodb.net/react-node-combaine')
+mongoose.connect('')
   .then(() => console.log('Connected!'))
   .catch((err)=> console.log(err));
 
